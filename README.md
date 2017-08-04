@@ -1,6 +1,6 @@
 # _Debbie Michel's Portfolio_
 
-#### _This is Debbie Michel's portfolio, August 4,2017_
+#### _This is Debbie Michel's portfolio, August 4, 2017_
 
 #### By _**Debbie Michel**_
 
@@ -10,8 +10,7 @@ _This website is a portfolio of Debbie Michel, explaining who she is, what her b
 
 ## Setup/Installation Requirements
 
-_No set up is required at this time_
-_Open the page in a web browser_
+_No set up is required at this time.  Just open the page in a web browser_
 
 ## Known Bugs
 
@@ -23,7 +22,7 @@ _If you have questions or comments about this page please send them to Debbie Mi
 
 ## Technologies Used
 
-_This website was created using HTML, CSS and Boostrap_
+_This website was created using HTML, CSS and Bootstrap_
 
 ### License
 
