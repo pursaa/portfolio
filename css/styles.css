@@ -1,13 +1,15 @@
-.education {
-float: left;
-}
-.job {
-  float: left;
-}
-.hobby {
-  float: left;
-}
 .container-fluid {
   padding: 30px;
 
+}
+.panel-title {
+  float: left;
+
+}
+.panel-heading {
+  height: 40px;
+}
+#about-me {
+  color: green;
+  margin-left:10px
 }
