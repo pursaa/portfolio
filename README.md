@@ -8,10 +8,10 @@
 
 _This website is a portfolio of Debbie Michel, explaining who she is, what her background is, what her hobbies and interest are and links to some of her work._
 
-## No set up is required
+## Setup/Installation Requirements
 
+_No set up is required at this time_
 _Open the page in a web browser_
-
 
 ## Known Bugs
 
@@ -29,4 +29,4 @@ _This website was created using HTML, CSS and Boostrap_
 
 *MIT*
 
-Copyright (c) 2016 **_Debbie Michel**
+Copyright (c) 2017 **_Debbie Michel**
