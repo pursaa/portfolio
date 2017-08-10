@@ -10,7 +10,11 @@ _This website is a portfolio of Debbie Michel, explaining who she is, what her b
 
 ## Setup/Installation Requirements
 
-_No set up is required at this time.  Just open the page in a web browser_
+_go to https://github.com/pursaa/portfolio and and clone portfolio repository_
+_Open html file in web browser to see html page_
+_Open html, js and css files with a code editor and begin editing_
+_Or you can go to https://pursaa.github.io/portfolio/ to review page_
+
 
 ## Known Bugs
 
